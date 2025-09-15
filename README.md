@@ -70,7 +70,7 @@
   <section id="about" class="about">
     <h2>About Me</h2>
     <div class="about-content">
-      <img src="IMG-20250912-WA0003.jpg" alt="Profile Photo">
+      <img src="IMG-20250912-WA0002.jpg" alt="Profile Photo">
       <p>I am a student enthusiastic about technology and design. I love building interactive, user-friendly web applications and exploring new tools in the tech world.</p>
     </div>
   </section>
